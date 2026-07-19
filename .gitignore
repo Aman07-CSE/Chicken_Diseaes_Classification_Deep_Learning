@@ -158,6 +158,7 @@ env.bak/
 venv.bak/
 Chiken_Venv/
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
